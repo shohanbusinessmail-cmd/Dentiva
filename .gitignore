@@ -1,0 +1,23 @@
+# Node / Build artifacts
+node_modules/
+dist/
+release/
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local data
+*.db
+*.db-journal
+
+# Env
+.env
+.env.local

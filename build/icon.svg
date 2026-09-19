@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e6b6f"/>
+      <stop offset="100%" stop-color="#1aa4a9"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="48" fill="url(#g)"/>
+  <!-- Stylized tooth -->
+  <g transform="translate(64 56)" fill="white">
+    <path d="M64 0C32 0 8 16 8 56c0 32 8 48 16 80s8 64 24 64 8-48 16-48 8 48 16 48 16-32 24-64S120 88 120 56C120 16 96 0 64 0z"/>
+  </g>
+  <!-- Accent stripe -->
+  <rect x="48" y="208" width="160" height="6" rx="3" fill="#b58a4a"/>
+</svg>
